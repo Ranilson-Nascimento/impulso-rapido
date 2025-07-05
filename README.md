@@ -1,5 +1,10 @@
 # Impulso Rápido
 
+[![Deploy em produção](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fimpulso-rapido.vercel.app)](https://impulso-rapido.vercel.app)
+[![Acesse a página em tempo real](https://img.shields.io/badge/Ver%20Landing%20Page-impulso--rapido.vercel.app-06B6D4?style=flat-square&logo=vercel)](https://impulso-rapido.vercel.app)
+
+![Banner do projeto](./page.png)
+
 ![Next.js](https://img.shields.io/badge/Next.js-15.3-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=flat-square&logo=tailwindcss)
